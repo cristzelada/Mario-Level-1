@@ -6,7 +6,7 @@ SCREEN_WIDTH = 800
 SCREEN_SIZE = (SCREEN_WIDTH,SCREEN_HEIGHT)
 
 ORIGINAL_CAPTION = "Super Mario Bros 1-1"
-
+#ERES GAY
 ## COLORS ##
 
 #            R    G    B
